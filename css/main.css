@@ -1,9 +1,3 @@
-html[data-theme='dark'] {
-    --bg: #333;
-    --bg-secondary: #444;
-    --headings: #39f;
-    --text: #bbb;
-}
 body {
     margin: 60px auto;
     width: 70%;
