@@ -76,7 +76,7 @@ Somewhat in Tandem with my contract work, I have been working on my first game f
 
 being created for me by friends / ex-colleagues.
 
--   Ported the game to PlayStation Mobile (C\#) several years later.
+-   Ported the game to PlayStation Mobile (C#) several years later.
 
 Contract Programmer: Venetica PS3 (Wizarbox)
 
@@ -148,6 +148,7 @@ Skills
 
 C/C++11, C99 / C11, C\#, Assembly Language, Gnm, Vulkan, OpenGL 4.6, GLSL, HLSL, PSSL and OpenCL. Experience with the following consoles, PlayStation 4, PlayStation Vita, Playstation 3 (PPU, SPU & RSX) and iOS. Experience developing for PS VR, Oculus Rift, Oculus Quest and HTC Vive on PC. Unity and a tiny bit of UE4.
 
-**INTERESTS**
+Interests
+=========
 
 I enjoy most aspects of game development not just graphics programming. Outside of work and programming in general I enjoy walking, kayaking and both making and listening to music,
