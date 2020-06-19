@@ -1,4 +1,4 @@
-Profile {#profile .list-paragraph}
+Profile 
 =======
 
 I am a experienced video game programmer, with over 23 years in the industry. I have predominately worked in the area of 3D graphics but can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
@@ -14,11 +14,11 @@ Consultant / Contract Programmer: Project under NDA (7 Months - Wushu Studios)
 
 **Senior Programmer (Graphics) FireSprite Ltd. January 2019 - July 2019**
 
--   Porting a PC game to PS4 & XBox One (Unannounced).
+-   Porting a PC game to PS4 & XBox One.
 
 **Principal Engineer, SIE R&D West (Game Engine Technologies). Sept 2017 - December 2018**
 
--   Continued Support of PhyreEngine
+-   Continued Support of PhyreEngine.
 
 -   Developed a method for allowing regression testing of PSVR projects without requiring PSVR hardware.
 
