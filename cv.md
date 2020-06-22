@@ -27,7 +27,7 @@ Initially interviewed as a Graphics Programmer, I expressed an interest in Virtu
 
 Key Highlights:
 
-• Added PlayStation VR support to PhyreEngine and kept up to date with SDK functionality.
+• Added PlayStation VR support to PhyreEngine and kept it up to date with SDK functionality.
 
 • Created (along with our Artist) the PhyreEngine VR Sample called CaveRoVR.
 
@@ -40,17 +40,17 @@ Key Highlights:
 
 ### Technical Director, Guilty Dog Productions Ltd. Aug 2013 - Dec 2014
 
-**Contract Programmer: Switch Galaxy Ultra Playstation Vita and PS4 (3.5 Months - Atomicom)**
+**Contract Programmer: Switch Galaxy Ultra, Playstation Vita and PS4 (3.5 Months - Atomicom)**
 
 I was initially hired for 3 weeks to help get their track spline code to work. Then I was asked to stay on to help them finish the project. Tasks were mostly graphics related, Motion Blur and Bloom on PS4, shader work on Vita, PS4 and PC.
 
-**Contract Programmer: Joe Danger / Joe Danger 2 - Playstation Vita (6 Months - Four Door Lemon)**
+**Contract Programmer: Joe Danger / Joe Danger 2, Playstation Vita (6 Months - Four Door Lemon)**
 
 I took the Lead role in a 2 programmer team involved in porting Joe Danger / Joe Danger 2 to Playstation Vita. Involved in all aspects of the port but the contract was terminated in February 2014 so I didn't see the project out until the end.
 
 ### Director / Lead Engineer, Spinning Head Software Ltd. Jan 2009 - May 2013
 
-**Engineer: Cosmic Clean Up (Playstation Mobile)**
+**Engineer: Cosmic Clean Up, Playstation Mobile**
 
 At the end of 2012 I helped out on Green Hill and Ripstone's game Cosmic Clean Up for Playstation Mobile for the final 3 weeks of the project. The game used Sony's GameEngine2D classes that are based on Cocos2D for iOS.
 
@@ -58,11 +58,11 @@ At the end of 2012 I helped out on Green Hill and Ripstone's game Cosmic Clean U
 
 In August 2010 I took on the task of porting 2 PSP games (Skyscraper and Swizzleblocks part of the Go Puzzle game), to the new Sony Ericsson Xperia Play phone. Both games were based on the same Engine. Early in 2011 these projects were temporarily shelved but from June 2011, I was additionally tasked with finishing off two additional projects (Lemmings and Super Stardust) as well as adding touch support to all four games and ensuring they work on the two newly announced Sony Tablets.
 
-**Contract Programmer: Risen 2 PS3 (Wizarbox)**
+**Contract Programmer: Risen 2, PS3 (Wizarbox)**
 
 I spent 7 months or so, between December 2010 and July 2011 helping Wizarbox optimising the rendering engine for the PS3 port of Risen2. This primarily involved integrating Edge Geom into the existing runtime and tools codebases.
 
-**Solo Engineer: Flick Hockey (iOS, PlayStation Mobile)**
+**Solo Engineer: Flick Hockey, iOS & PlayStation Mobile.**
 
 In Tandem with my contract work, I developed my first game for iPhone / iPod Touch, an Air Hockey game called Flick Hockey, that had a 3D players eye view, in contrast to the many 2D top down Air Hockey games already available on iPhone.
 
@@ -74,7 +74,7 @@ In Tandem with my contract work, I developed my first game for iPhone / iPod Tou
 
 • Ported it to PlayStation(tm) Mobile (C#) several years later.
 
-**Contract Programmer: Venetica PS3 (Wizarbox)**
+**Contract Programmer: Venetica, PS3 (Wizarbox)**
 
 • Assisted with the final parts of fixing up the Ogre3D port to run on the PS3s GCM library.
 
