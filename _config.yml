@@ -1,3 +1,3 @@
 name: Claire Rogers, Guilty Dog Productions
-markdown: kramdown
+markdown: GFM
 permalink: /blog/:year/:month/:day/:title
