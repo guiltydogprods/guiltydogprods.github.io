@@ -12,7 +12,7 @@ I am a experienced video game programmer, with over 23 years in the industry. I 
 Experience
 ----------
 
-### Principal Engineer, SIE R&D West (Game Engine Technologies). Sept 2017 - December 2018
+### Principal Engineer, SIE R&D West (Game Engine Technologies). Sept 2017 - Dec 2018
 
 • Continued Support of PhyreEngine.
 
@@ -21,7 +21,7 @@ Experience
 • Help develop PlayStation SDK components with the rest of the Game Engine Technologies.
 
 
-### Principal Engineer, SCEE R&D (PhyreEngine). Sept 2014 - September 2017
+### Principal Engineer, SCEE R&D (PhyreEngine). Sept 2014 - Sept 2017
 
 Initially interviewed as a Graphics Programmer, I expressed an interest in Virtual Reality during my interview and upon being hired I was to be given the responsibility of adding PlayStation VR support to PhyreEngine. and became the resident VR expert on the team. This combined my loves of Engine / Graphics Programming for the core engine support and Gameplay Programming creating the sample demonstrating the new engine features.
 
@@ -38,7 +38,7 @@ Key Highlights:
 • Integrated Mutislice stereo rendering into an existing engine codebase.
 
 
-### Senior Programmer / Technical Director, Guilty Dog Productions Ltd. Aug 2013 - Dec 2014
+### Technical Director, Guilty Dog Productions Ltd. Aug 2013 - Dec 2014
 
 **Contract Programmer: Switch Galaxy Ultra Playstation Vita and PS4 (3.5 Months - Atomicom)**
 
