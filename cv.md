@@ -7,10 +7,24 @@ Claire Rogers - CV
 
 ## Profile 
 
-I am a experienced video game programmer, with over 23 years in the industry. I have predominately worked in the area of 3D graphics but can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
+I am a experienced video game programmer, with over 23 years in the games industry. I have predominately worked in the area of 3D graphics but can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
 
 Experience
 ----------
+
+### Co-Founder / CTO / Technical Director, Guilty Dog Productions Ltd. Oct 2019 -  Present
+
+**Solo Engineer: Air Hockey Arcade, Oculus Rift & Quest (SteamVR / PS VR planned).**
+
+Air Hockey Arcade is a VR adaption of my earlier mobile game Flick Hockey.  While at SIE R&D West, I prototyped a version of the game in PhyreEngine that we would use to showcase PhyreEngine's VR support in addition to our official PS VR sample.  I've since been tinkering with the project in my spare time for several years, moving it to my own cross platform VR engine. I have been working on this exclusively since my previous contract was cancelled and hope to release it in the coming months, initially for Oculus Rift and eventually on other platforms.
+
+**Consultant / Contract Programmer: Project under NDA (7 Months - Wushu Studios)**
+
+Porting an existing PSVR / PCVR UE4 based project to Oculus Quest. (Cancelled).
+
+### Senior Programmer (Graphics) FireSprite Ltd. January 2019 - July 2019
+
+Porting a PC game to PS4 & XBox One (Unannounced).
 
 ### Principal Engineer, SIE R&D West (Game Engine Technologies). Sept 2017 - Dec 2018
 
@@ -144,9 +158,9 @@ National Diploma - Electronic Engineering
 Skills
 ======
 
-C/C++11, C99 / C11, C\#, Assembly Language, Gnm, Vulkan, OpenGL 4.6, GLSL, HLSL, PSSL and OpenCL. Experience with the following consoles, PlayStation 4, PlayStation Vita, Playstation 3 (PPU, SPU & RSX) and iOS. Experience developing for PS VR, Oculus Rift, Oculus Quest and HTC Vive on PC. Unity and a tiny bit of UE4.
+C/C++11, C99 / C11, C#, Assembly Language, Gnm, Vulkan, OpenGL 4.6, GLSL, HLSL, PSSL and OpenCL. Experience with the following consoles, PlayStation 4, PlayStation Vita, Playstation 3 (PPU, SPU & RSX) and iOS. Experience developing for PS VR, Oculus Rift, Oculus Quest and HTC Vive on PC. Unity and a tiny bit of UE4.
 
 Interests
 =========
 
-I enjoy most aspects of game development not just graphics programming. Outside of work and programming in general I enjoy walking, kayaking and both making and listening to music,
+I enjoy most aspects of game development not just graphics programming. Outside of work and programming in general I enjoy walking, kayaking and both making and listening to music.  I play Guitar in a band called The Gentle Scars.
