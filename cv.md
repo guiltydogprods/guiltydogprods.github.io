@@ -12,7 +12,7 @@ I am a experienced video game programmer, with over 23 years in the games indust
 Experience
 ----------
 
-### Co-Founder / CTO / Technical Director, Guilty Dog Productions Ltd. Oct 2019 -  Present
+### Co-Founder / CTO, Guilty Dog Productions Ltd. Oct 2019 -  Present
 
 **Solo Engineer: Air Hockey Arcade, Oculus Rift & Quest (SteamVR / PS VR planned).**
 
@@ -20,11 +20,11 @@ Air Hockey Arcade is a VR adaption of my earlier mobile game Flick Hockey.  Whil
 
 **Consultant / Contract Programmer: Project under NDA (7 Months - Wushu Studios)**
 
-Porting an existing PSVR / PCVR UE4 based project to Oculus Quest. (Cancelled).
+• Porting an existing PSVR / PCVR UE4 based project to Oculus Quest. (Cancelled).
 
 ### Senior Programmer (Graphics) FireSprite Ltd. January 2019 - July 2019
 
-Porting a PC game to PS4 & XBox One (Unannounced).
+• Porting a PC game to PS4 & XBox One (Unannounced).
 
 ### Principal Engineer, SIE R&D West (Game Engine Technologies). Sept 2017 - Dec 2018
 
