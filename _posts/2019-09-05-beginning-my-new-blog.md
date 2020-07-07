@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claire Rogers, Guilty Dog Productions, Launches Blog"
+title: "My first blog post!"
 date: 2019-09-05
 ---
 

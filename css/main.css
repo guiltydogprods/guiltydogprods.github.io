@@ -2,7 +2,22 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #333;    
+    color: #bbb;
 }
+
+ul {
+  list-style: none;
+}
+
+ul.posts li::before {
+  content: "\2022";
+  color: #bbb;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -13,6 +28,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
