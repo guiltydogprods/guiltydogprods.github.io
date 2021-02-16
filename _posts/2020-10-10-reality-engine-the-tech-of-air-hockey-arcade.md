@@ -69,7 +69,7 @@ typedef struct mat4x4
 } mat4x4 __attribute__ ((aligned(16)));
 ```
 
-I'm also potentially going to use Apple's 'Blocks' extension, which gives me lambda expressions in C and will allow me to do libDispatch style multi-threading: 
+I'm also potentially going to use Apple's 'Blocks' extension, which gives me lambda expressions in C and will allow me to do libDispatch style multi-threading among other things: 
 
 ``` c
 dispatch_async( concurrentQueue, ^{
