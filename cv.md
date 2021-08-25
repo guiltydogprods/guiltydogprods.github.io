@@ -14,9 +14,13 @@ Experience
 
 ### Co-Founder / CTO, Guilty Dog Productions Ltd. Oct 2019 -  Present
 
-**Solo Engineer: Air Hockey Arcade, Oculus Rift & Quest (SteamVR / PS VR planned).**
+**Solo Engineer: Air Hockey Arcade, Oculus Quest (AppLab) (Oculus Rift, SteamVR & PS VR planned).**
 
-Air Hockey Arcade is a VR adaption of my earlier mobile game Flick Hockey.  While at SIE R&D West, I prototyped a version of the game in PhyreEngine that we would use to showcase PhyreEngine's VR support in addition to our official PS VR sample.  I've since been tinkering with the project in my spare time for several years, moving it to my own cross platform VR engine. I have been working on this exclusively since my previous contract was cancelled and hope to release it in the coming months, initially for Oculus Rift and eventually on other platforms.
+Air Hockey Arcade is a VR adaption of my earlier mobile game Flick Hockey.  While at SIE R&D West, I prototyped a version of the game in PhyreEngine that we would use to showcase PhyreEngine's VR support in addition to our official PS VR sample.  I've since moved it to my own cross platform VR engine "Reality Engine" written in C99 using OpenGL ES 3.2 on Quest & OpenGL 4.6 on PC. I released the single player version as a free demo on AppLab at the end of May 2021 and I'm currently working on the Multiplayer support to be released as paid IAP when it's ready. Aside from the various Oculus SDKs, FMOD and a couple of small open source libraries, everything has been coded from scratch by myself with most of the 3D assets created for previous versions of the game.
+
+**Contract Programmer: Engram (7 Months - Maze Theory)**
+
+Initially I applied for their Technical Director role but due to a lack of leadership experience I didn't get that particular role. We pivoted to what was supposed to be a Principal Engineer role, but on my first day I was told it was actually a Senior Engineer position.  As a result of this, I negotiated a change to a 6 month contract role on a 3 day per week basis so I could continue to work on my own game in parallel.  After a time it became clear to me that what they really needed was a Unity Generalist which I am not, so after the initial 6 months we decided to bring the contract to an end but keep open the possibility of ad-hoc contract work that fit more with my areas of speciality which never materialised. This project did give me my first experience working with Unity + VR. 
 
 **Consultant / Contract Programmer: Project under NDA (7 Months - Wushu Studios)**
 
