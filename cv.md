@@ -7,7 +7,7 @@ Claire Rogers - CV
 
 ## Profile 
 
-I am a experienced video game programmer, with over 28 years in the games industry. I have predominately worked in the area of 3D graphics and VR, but I can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
+I am an experienced video game programmer, with over 28 years in the games industry. I have predominately worked in the areas of 3D graphics and VR, but I can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
 
 Experience
 ----------
