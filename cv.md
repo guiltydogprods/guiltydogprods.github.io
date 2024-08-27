@@ -14,7 +14,7 @@ Experience
 
 ### Co-Founder / CTO, Guilty Dog Productions Ltd. Oct 2019 -  Present
 
-**Graphics / VR Programmer: Hitman 3 VR: Reloaded, Meta Quest 3 (2 Years 10 Months - XR Games)**
+**Graphics / VR Programmer (Contract): Hitman 3 VR: Reloaded, Meta Quest 3 (2 Years 10 Months - XR Games)**
 
 Initially I was brought on to the project to create a lightweight Vulkan renderer for the Quest 2 for IO Interactive's G2 Engine used by Hitman 3.  Eventually this morphed into helping port the game and get the existing G2 Vulkan renderer running on Quest2 and ultimately Quest3. We modified the renderer to work in a forward rendering fashion with custom shaders for a new art style more suitable for the Meta Quest 3. I added support for OpenXR and various Meta extensions (Fixed Foveated Rendering & Application Space Warp to name two), enabling us to run the game on a mobile VR device. Porting Hitman 3 to Meta Quest 3 has been one of the most challenging projects I have been involved in, at times we weren't even sure it would be possible and the team was in constant flux for the duration of the project as a result.
 
@@ -166,7 +166,7 @@ National Diploma - Electronic Engineering
 Skills
 ======
 
-C/C++11, C99 / C11, C#, Assembly Language, Gnm, Vulkan, OpenGL 4.6, GLSL, HLSL, PSSL and OpenCL. Experience with the following consoles, PlayStation 4, PlayStation Vita, PlayStation 3 (PPU, SPU & RSX) and iOS. Experience developing for PS VR, Oculus Rift, Oculus Quest and HTC Vive on PC. Private Pilot.
+C/C++, Modern C (C99+), C#, Assembly Language, Gnm, Vulkan, OpenGL 4.6, GLSL, HLSL, PSSL,OpenCL & OpenXR. Experience with the following consoles, PlayStation 4, PlayStation Vita, PlayStation 3 (PPU, SPU & RSX) and iOS. Experience developing for PS VR, Oculus Rift, Oculus Quest and HTC Vive on PC. Private Pilot.
 
 Interests
 =========
