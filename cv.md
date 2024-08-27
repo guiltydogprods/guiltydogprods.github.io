@@ -7,12 +7,16 @@ Claire Rogers - CV
 
 ## Profile 
 
-I am a experienced video game programmer, with over 25 years in the games industry. I have predominately worked in the area of 3D graphics but can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
+I am a experienced video game programmer, with over 28 years in the games industry. I have predominately worked in the area of 3D graphics but can turn my skills to most areas. I am passionate about Virtual Reality and believe it is the future of our industry. I am hardworking, easy going and have a proven track record of working both autonomously and as part of a team.
 
 Experience
 ----------
 
 ### Co-Founder / CTO, Guilty Dog Productions Ltd. Oct 2019 -  Present
+
+**Graphics / VR Programmer: Hitman 3 VR: Reloaded (2 Years 10 Months - XR Games)**
+
+Initially I was brought on to the project to create a lightweight Vulkan renderer for the Quest 2 for IO Interactive's G2 Engine used by Hitman 3.  Eventually this morphed into helping port the game and get the existing G2 Vulkan renderer running on Quest2 and ultimately Quest3. We modified the renderer to work in a forward rendering fashion with custom shaders for a new art style more suitable for the Meta Quest 3. I added support for OpenXR and various Meta extensions (Fixed Foveated Rendering & Application Space Warp to name two), enabling us to run the game on a mobile VR devices. Porting Hitman 3 to Meta Quest 3 has been one of the most challenging projects I have been involved in, at times we weren't even sure it would be possible.
 
 **Solo Engineer: Air Hockey Arcade, Oculus Quest (AppLab) (Oculus Rift, SteamVR & PS VR planned).**
 
