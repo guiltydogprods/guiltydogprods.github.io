@@ -121,7 +121,7 @@ Key Highlights:
 • Collaborated on proprietary graphics engines and implemented custom rendering solutions.  
 
 Skills
-======
+------
 Comprehensive expertise in programming languages, APIs, and platforms, with a focus on VR and graphics programming.
 
 **Programming Languages & APIs**
@@ -142,12 +142,12 @@ Comprehensive expertise in programming languages, APIs, and platforms, with a fo
 • Private Pilot License & SEP Rating.  
 
 Education
-=========
+---------
 • BSc (Hons) Computing, Manchester Metropolitan University.    
 • Higher National Diploma - Software Engineering, Farnborough College of Technology.  
 • National Diploma - Electronics Engineering, Farnborough College of Technology.  
 
 Interests
-=========
+---------
 I enjoy many aspects of game development beyond graphics programming. Outside of work, I earned my Private Pilot’s License with a Single Engine Piston rating in June 2024. Flying enhances my perspective on problem-solving and technology, and I plan to pursue additional ratings over time.
 

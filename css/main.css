@@ -58,12 +58,12 @@ h1 {
 h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #818;
+    color: #668; /*#818;*/
 }
 h3 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #666;
+    color: #D95F02; /*#779;*/
 }
 p {
     font-size: 1em;
