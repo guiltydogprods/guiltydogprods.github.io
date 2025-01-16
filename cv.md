@@ -37,8 +37,6 @@ Experience
 
 • Initially applied for the Technical Director role but transitioned to a Senior Engineer position, negotiated as a 6-month, 3-day-per-week contract to balance work on personal projects.  
 • Contributed to *Engram*, gaining first-hand experience with Unity and VR development.  
-• Identified a shift in project requirements toward a Unity Generalist role, which differed from my core expertise.  
-• Concluded the 6-month contract by mutual agreement, leaving open the possibility of future ad-hoc work that did not materialize.
 
 **Consultant / Contract Programmer: Project under NDA (7 Months - Wushu Studios)**
 
@@ -52,7 +50,7 @@ Experience
 
 • Continued support of PhyreEngine.  
 • Developed a method for allowing regression testing of PSVR projects without requiring PSVR hardware.  
-• Helped develop PlayStation SDK components with the rest of the Game Engine Technologies.  
+• Helped develop PlayStation SDK components with the rest of the Game Engine Technologies team.  
 
 ### Principal Engineer, SCEE R&D (PhyreEngine). Sept 2014 - Sept 2017
 
@@ -61,7 +59,7 @@ Key Highlights:
 
 • Added PlayStation VR support to PhyreEngine and kept it up to date with SDK functionality.  
 • Created (along with our Artist) the PhyreEngine VR Sample called CaveRoVR.  
-• Enhanced our Tiled Deferred Lighting Code to work with non-asymmetric projection matrices.  
+• Enhanced our Tiled Deferred Lighting Code to work with asymmetric projection matrices.  
 • Wrote a simple IK system to enhance the PS Move tracking features in the sample.  
 • Integrated Multislice stereo rendering into an existing engine codebase.  
 
@@ -70,32 +68,27 @@ Key Highlights:
 **Contract Programmer: Switch Galaxy Ultra, Playstation Vita and PS4 (3.5 Months - Atomicom)**
 
 • Hired for an initial 3-week contract to refine and optimize track spline code.  
-• Extended contract to assist with project completion due to proven contributions.  
-• Focused on graphics-related tasks, including implementing Motion Blur and Bloom effects on PS4.  
-• Developed and optimized shaders for Vita, PS4, and PC platforms.  
-
+• Focused on graphics-related tasks, including implementing Motion Blur and Bloom effects on PS4 and Developed and optimized shaders for Vita, PS4, and PC platforms  
+•
 **Contract Programmer: Joe Danger / Joe Danger 2, Playstation Vita (6 Months - Four Door Lemon)**
 
 • Led a 2-programmer team to port *Joe Danger* and *Joe Danger 2* to PlayStation Vita.  
 • Contributed to all aspects of the port, including optimization and platform-specific adjustments.  
-• Contract ended in February 2014 before project completion.
 
 ### Director / Lead Engineer, Spinning Head Software Ltd. Jan 2009 - May 2013
 
 • Delivered high-quality ports of PSP and PS3 games to platforms like Xperia Play and PlayStation Mobile.  
 • Contributed to *Cosmic Clean Up* for PlayStation Mobile, utilizing Sony's GameEngine2D framework (based on Cocos2D).  
-• Specialized in graphics optimization, touch interface development, and cross-platform engine adaptation.  
 
 **Contract Programmer: Risen 2, PS3 (Wizarbox)**
 
 • Assisted Wizarbox with optimizing the rendering engine for the PS3 port of *Risen 2* over a 7-month period (December 2010 – July 2011).  
-• Integrated Edge Geom into the existing runtime and tools codebases to enhance performance.  
+• Integrated Edge Geom into the existing runtime and tools codebases to enhance performance. 
 
 **Solo Engineer: Flick Hockey, iOS & PlayStation Mobile.**
 
 • Designed and developed an original Air Hockey game with a 3D player’s-eye view, distinguishing it from the top-down Air Hockey games on the market.  
 • Built a custom game engine in C, implementing rendering, physics/collision, networking, front-end systems, and audio.  
-• Developed a Mac-based tool for converting .obj files into a custom model format optimized for iOS.  
 • Created much of the game’s artwork personally, with additional assets contributed by collaborators.  
 • Successfully ported the game to PlayStation Mobile using C#.  
 
@@ -116,7 +109,7 @@ Key Highlights:
 
 **Graphics Programmer, Psygnosis / SCEE Liverpool (May 1996 – Sept 2007)**
 
-• Contributed to groundbreaking PlayStation 1, PS2, and PS3 titles, including *F1 Championship Edition*.  
+• Contributed to groundbreaking PlayStation 1, PS2, and PS3 titles, including Wipeout Fusion and *F1 Championship Edition*.  
 • Specialized in next-gen rendering techniques such as HDR rendering, real-time lighting, and shader optimization.  
 • Collaborated on proprietary graphics engines and implemented custom rendering solutions.  
 
