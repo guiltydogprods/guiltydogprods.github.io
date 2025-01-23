@@ -68,8 +68,9 @@ Key Highlights:
 **Contract Programmer: Switch Galaxy Ultra, Playstation Vita and PS4 (3.5 Months - Atomicom)**
 
 • Hired for an initial 3-week contract to refine and optimize track spline code.  
-• Focused on graphics-related tasks, including implementing Motion Blur and Bloom effects on PS4 and Developed and optimized shaders for Vita, PS4, and PC platforms  
-•
+• Focused on graphics-related tasks, including implementing Motion Blur and Bloom effects on PS4.  
+• Developed and optimized shaders for Vita, PS4, and PC platforms.  
+
 **Contract Programmer: Joe Danger / Joe Danger 2, Playstation Vita (6 Months - Four Door Lemon)**
 
 • Led a 2-programmer team to port *Joe Danger* and *Joe Danger 2* to PlayStation Vita.  
